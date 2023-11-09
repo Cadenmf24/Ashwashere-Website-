@@ -2,7 +2,7 @@
   "name": "websitetest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cadenmf24.github.io/Ashwashere-Website-",
+  "homepage": "http://cadenmf24.github.io/ashwashere",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
