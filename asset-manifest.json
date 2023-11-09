@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ashwashere-Website-/static/css/main.406dd66f.css",
-    "main.js": "/Ashwashere-Website-/static/js/main.b1ddf255.js",
-    "static/js/787.7bf43499.chunk.js": "/Ashwashere-Website-/static/js/787.7bf43499.chunk.js",
-    "index.html": "/Ashwashere-Website-/index.html",
-    "main.406dd66f.css.map": "/Ashwashere-Website-/static/css/main.406dd66f.css.map",
-    "main.b1ddf255.js.map": "/Ashwashere-Website-/static/js/main.b1ddf255.js.map",
-    "787.7bf43499.chunk.js.map": "/Ashwashere-Website-/static/js/787.7bf43499.chunk.js.map"
+    "main.css": "/ashwashere/static/css/main.406dd66f.css",
+    "main.js": "/ashwashere/static/js/main.5b83628c.js",
+    "static/js/787.7bf43499.chunk.js": "/ashwashere/static/js/787.7bf43499.chunk.js",
+    "index.html": "/ashwashere/index.html",
+    "main.406dd66f.css.map": "/ashwashere/static/css/main.406dd66f.css.map",
+    "main.5b83628c.js.map": "/ashwashere/static/js/main.5b83628c.js.map",
+    "787.7bf43499.chunk.js.map": "/ashwashere/static/js/787.7bf43499.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.406dd66f.css",
-    "static/js/main.b1ddf255.js"
+    "static/js/main.5b83628c.js"
   ]
 }
