@@ -10,7 +10,7 @@ const Footer = () => {
         <Box>
             <FooterContainer>
             <h2
-                style = {{color:"#D80032",
+                style = {{color:"#CE5A67",
                         textAlign:"left",
                         marginTop: "1px",
                     }}
