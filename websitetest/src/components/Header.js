@@ -17,8 +17,8 @@ const Header = () => {
             <Router>
                 <Navbar />
                 <Routes>
-                    <Route exact path ='/general' element = {<General />} />
-                    <Route exact path = '/aboutme' element = {<Aboutme />} />
+                    <Route exact path ='ashwashere/general' element = {<General />} />
+                    <Route exact path = 'ashwashere/aboutme' element = {<Aboutme />} />
                 </Routes>
             </Router>
         </div>
