@@ -1,5 +1,4 @@
 import React from "react";
-import { Column } from "./FooterStyles";
 
 const Body = () => {
     return(
