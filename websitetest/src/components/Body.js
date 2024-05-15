@@ -2,11 +2,15 @@ import React from "react";
 
 const Body = () => {
     return(
+        
         <div style = {{marginLeft: 30, color: "#000000"}}>
+
             <h1> About Me: </h1>
+
+
         <div className = "App-body">
             <p>Hello! My name is Caden Franklin, but my friends call me Ash!
-            I am currently a 3rd year attending Rochester Institute of Technology as a Software Engineer. 
+            I am currently a 4rd year attending Rochester Institute of Technology as a Software Engineer. 
             Software gives people freedom to make whatever they want, as long as they have the skills to.
             It's an different feeling to see something you think about creating at 3 in the morning in action.
             {'\n'}

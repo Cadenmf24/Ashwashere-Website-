@@ -13,7 +13,11 @@ const Home = () => {
 
             <img className = "App-image" src = {pic}></img>
 
+            <Footer />
+
         </div>
+
+        
     )
 }
 
