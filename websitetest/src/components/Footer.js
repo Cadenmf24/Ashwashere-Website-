@@ -10,15 +10,14 @@ const Footer = () => {
         <Box>
             <FooterContainer>
             <h2
-                style = {{color:"#CE5A67",
+                style = {{color:"#000000",
                         textAlign:"left",
-                        marginTop: "1px",
+                        marginTop: "px",
                     }}
                     >
                         Contact:
                     </h2>
-                    
-                    <h3 style = {{textAlign: 'left', whiteSpace: 'pre-wrap', color: '#CE5A67'}} > Email: cadenmf24@gmail.com {'\n'} <a style = {{textAlign: 'left', color: '#CE5A67'}} href = "https://github.com/Cadenmf24" rel = "nonreferrer">GitHub: Cadenmf24</a></h3>
+                    <h3 style = {{textAlign: 'left', whiteSpace: 'pre-wrap', color: '#000000'}} > Email: cadenmf24@gmail.com {'\n'} <a style = {{textAlign: 'left', color: '#000000'}} href = "https://github.com/Cadenmf24" rel = "nonreferrer">GitHub: Cadenmf24</a></h3>
                     </FooterContainer>
         </Box>
     )

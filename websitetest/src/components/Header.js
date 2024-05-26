@@ -1,17 +1,14 @@
 import React from "react";
-
-
+import { Link } from 'react-router-dom';
 
 
 const Header = () => {
     return(
-        <div className="App-header">
-            {/* <h1> Welcome To the Website of Ash Franklin </h1> */}
-            <h1 style={{textAlign: "center"}}>THIS WEBSITE IS STILL VERY MUCH UNDER DEVELOPEMENT, CHECK GITHUB FOR MORE INFOMATION github.com/cadenmf24</h1>
-            <style>
-                @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-            </style>
-        </div>
+        <nav className= "header-links">
+            <Link to = "/" className="link">Home </Link>
+            <Link to ="/about" className="link">About </Link>
+            <Link to = "/general" className = "link">General</Link>
+        </nav>
     )
 };
 

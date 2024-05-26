@@ -26,7 +26,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
-  box-shadow: 5px 5px 10px #CE5A67;
+  box-shadow: 5px 5px 10px #0F52BA;
   justify-content: center;
   align-self: flex-end;
   object-fit:cover;
@@ -35,7 +35,7 @@
 
 
 .App-header {
-  background-color: #F4BF96;
+  background-color: #0F52BA;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,7 +44,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
-  box-shadow: 1px 5px 10px #CE5A67;
+  box-shadow: 1px 5px 10px #0F52BA;
   color: black
 }
 

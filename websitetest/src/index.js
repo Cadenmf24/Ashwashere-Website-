@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Aboutme from './sites/Aboutme';
 import Home from './sites/Home';
+import General from './sites/General';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

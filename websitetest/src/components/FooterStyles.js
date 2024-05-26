@@ -2,7 +2,7 @@ import styled from "styled-components";
  
 export const Box = styled.div`
     padding: 5% 2.5%;
-    background: #1F1717;
+    background: #0F52BA;
     // position: absolute;
     bottom: 0;
     width: 95%;
@@ -18,7 +18,7 @@ export const FooterContainer = styled.div`
     justify-content: center;
     max-width: 1000px;
     margin: 0 auto;
-    /* background: red; */
+    /* background: blue; */
 `;
  
 export const Column = styled.div`
