@@ -1,23 +1,29 @@
 
 import './App.css';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Aboutme from './sites/Aboutme';
+import About from './sites/Aboutme';
 import General from './sites/General';
 import Home from './sites/Home'
 import Header from './components/Header';
+import Footer from './components/Footer';
+import { Route, Routes } from 'react-router-dom';
 
 
 
 function App() {
+  
   return (
-    <BrowserRouter>
-    <Header/>
-    <Routes>
-      <Route exact path = "/" component = {Home} />
-      <Route exact path = "/about" component = {Aboutme} />
-      <Route exact path = "/general" component = {General} />
-    </Routes>
-    </BrowserRouter>
+    <>
+    <Header />
+    <div className = "container">
+      <Routes>
+        <Route path = "/home" element = {<Home />} />
+        <Route path = "/about" element = {<About />} />
+        <Route path = "/general" element = {<General />} />
+      </Routes>
+      
+    </div>
+    <Footer />
+    </>
   );
 }
 

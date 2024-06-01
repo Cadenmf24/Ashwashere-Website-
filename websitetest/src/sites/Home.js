@@ -2,14 +2,11 @@ import React from "react";
 import pic from "../components/Homepic.jpg"
 import App from "../App";
 import Footer from "../components/Footer"
-// import Layout from "../components/Layout";
-// import Navagation from "../components/Navagation"
+import Header from "../components/Header";
 
-const Home = () => {
+export default function Home(){
     return (
-
-        <div className="Home">
-            <App/>
+        <div>
             <style>
                 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
             </style>
@@ -18,11 +15,8 @@ const Home = () => {
 
 
             <img className = "App-image" src = {pic}></img>
-            <Footer/>
         </div>
 
 
     )
 }
-
-export default Home;

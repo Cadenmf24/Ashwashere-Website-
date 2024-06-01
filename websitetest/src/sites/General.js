@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const General = () => {
+export default function General(){
     return(
         <div style = {{marginLeft: 30, color: "#000000"}}>
             <h1> About Me: </h1>
@@ -15,5 +15,3 @@ const General = () => {
 
     )
 };
-
-export default General;

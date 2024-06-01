@@ -4,21 +4,15 @@ import Footer from '../components/Footer';
 import Header from '../components/Header';
 
 
-const Aboutme = () => {
+export default function About(){
     return (
-        <div className="App" >
+        <div>
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
       </style>
-
-      <Header />
       
       <Body />
-
-      <Footer />
 
     </div>
     )
 };
-
-export default Aboutme;
