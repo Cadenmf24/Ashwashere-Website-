@@ -10,12 +10,13 @@ body {
     margin: 1rem;
 }
 
-.Home{
+.HeaderHome{
     font-size: 2rem;
 
 }
 .Header {
-    background-color: blue;
+    background-color: #337ab7;
+    box-shadow: 1px 5px 10px #0F52BA;
     color: black; 
     display: flex;
     justify-content: space-between;

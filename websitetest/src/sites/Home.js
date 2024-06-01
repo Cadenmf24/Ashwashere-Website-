@@ -1,18 +1,19 @@
 import React from "react";
-import pic from "../pictures/Homepic.jpg"
+
 
 
 export default function Home(){
     return (
-        <div>
-            <style>
-                @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-            </style>
-            <h1 className="App-header"> Welcome Home 
-            </h1>
+        <div className="tldr">
+            
+            <p>
+                <h1>TL;DR</h1>
 
+                I am a Software Engineering student at Rochester Institute of Technology with strong skills in Python, 
+                Java, SQL, and various development tools. I have experience developing full-stack applications and AI models, 
+                and held leadership roles in professional associations. 
+            </p>
 
-            <img className = "App-image" src = {pic}></img>
         </div>
 
 
