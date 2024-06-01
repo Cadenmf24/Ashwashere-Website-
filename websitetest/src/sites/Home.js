@@ -1,8 +1,6 @@
 import React from "react";
-import pic from "../components/Homepic.jpg"
-import App from "../App";
-import Footer from "../components/Footer"
-import Header from "../components/Header";
+import pic from "../pictures/Homepic.jpg"
+
 
 export default function Home(){
     return (

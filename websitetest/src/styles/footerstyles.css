@@ -1,0 +1,13 @@
+.Footer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+/* .Footer a{
+    width: 25%;
+} */
+
+/* .Footer img{
+    align-self: center;
+} */
